@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.radioplayer {
+    background-color: skyblue;
+    text-align: center;
+    padding: 40px;
+    
+}
+.redspit {
+    background-color: red;
+    padding: 30px;
+}
+
+.infoboard {
+    text-align: center;
+    background-color: yellow;
+    padding: 2%;
+}
